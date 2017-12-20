@@ -10,4 +10,8 @@ second update!!!
 
 我要配合第二个
 
+<<<<<<< HEAD
 我是拒绝的哈萨克合法康师傅
+=======
+我就是要来搞事情
+>>>>>>> branch 'demo' of https://github.com/zhutonglmh/myproject.git
