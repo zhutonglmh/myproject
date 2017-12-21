@@ -8,11 +8,7 @@ second update!!!
 
 我要创建一个冲突
 
-<<<<<<< HEAD
-我要配合第四个
-=======
-我要配合第三个
->>>>>>> branch 'demo' of https://github.com/zhutonglmh/myproject.git
+我要配合第五个
 
 我是拒绝的哈萨克合法康师傅
 
